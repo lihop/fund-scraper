@@ -11,8 +11,8 @@
   },
   {
     "symbol": "FND1423.NZ",
-    "date": "2022-07-19",
-    "price": 1.9084000000000000962
+    "date": "2022-07-20",
+    "price": 1.9112999999999999989
   },
   {
     "symbol": "FND79.NZ",
@@ -29,9 +29,13 @@
     "date": "2022-07-20",
     "price": 1.2600400000000000488
   },
+  {
+    "symbol": "FUEMAV30.VN",
+    "date": "2022-07-21",
+    "price": 14519.999999999999999
+  },
   { "symbol": "FUEMAV30.VN", "date": "2022-07-20", "price": 14450.0 },
   { "symbol": "FUEMAV30.VN", "date": "2022-07-19", "price": 14280.0 },
   { "symbol": "FUEMAV30.VN", "date": "2022-07-18", "price": 14340.0 },
-  { "symbol": "FUEMAV30.VN", "date": "2022-07-15", "price": 14400.0 },
-  { "symbol": "FUEMAV30.VN", "date": "2022-07-14", "price": 14420.0 }
+  { "symbol": "FUEMAV30.VN", "date": "2022-07-15", "price": 14400.0 }
 ]
